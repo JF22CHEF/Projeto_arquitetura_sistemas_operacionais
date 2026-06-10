@@ -1,4 +1,4 @@
-# Projeto_arquitetura_sistemas_opercaionais
+# Projeto_arquitetura_sistemas_operacionais
 
 Pequeno projeto da disciplina de arquitetura e organização de computadores e sistemas operacionais
 
